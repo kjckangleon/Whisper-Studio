@@ -51,6 +51,12 @@ Linux: sudo apt install ffmpeg
 
 python main.py
 
+or convert it to exe
+python -m PyInstaller --onefile --noconsole main.py
+
+<img width="883" height="743" alt="image" src="https://github.com/user-attachments/assets/8673d1a3-f545-4432-afad-7e58657ff5e4" />
+
+
 ------------------------------------------------------------------------
 
 ## 🧠 How It Works
